@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="南通",南通一套·新闻综合频道
+https://nttv-wshls.homecdn.com/live/7cc9.m3u8?t=1662535318&k=b900187a4a04c36a33729a51209c65a7
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="南通",南通二套·社教频道
+https://nttv-wshls.homecdn.com/live/7cc7.m3u8?t=1662535998&k=9b70b86e54b6b6f8f2d8f5494eb06b6a
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="南通",南通三套·公共频道
+https://nttv-wshls.homecdn.com/live/7cc5.m3u8?t=1662536167&k=3ad042e5e61cf632e76a728a7d2c41ba
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="南通",崇川TV
+https://nttv-wshls.homecdn.com/live/7cc1.m3u8?t=1662536266&k=febcbb6ca50db51d05b66da14f98fc11
